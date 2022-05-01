@@ -1,2 +1,3 @@
 # CS1XC3
-Assignment comments using doxygen
+Final Assignment for CS1XC3 for the professor
+Assignment is commented using doxygen
